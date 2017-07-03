@@ -6,5 +6,5 @@
 Run:
 
 ```sh
-$ ./myWeight.py
+$ ./myWeight.py /location to csv file/
 ```
